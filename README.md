@@ -1,0 +1,33 @@
+# Raylib-CPP Snake
+![Language](https://img.shields.io/badge/language-C%2B%2B-brightgreen)
+![Raylib](https://img.shields.io/badge/raylib-6.0-00d4aa)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)
+![Editor](https://img.shields.io/badge/editor-VS%20Code-007ACC)
+
+## Get started in 3 steps
+
+**1.** Double-click `main.code-workspace` to open the project in VS Code.
+
+**2.** In the Explorer panel, navigate to the `src/` folder and open `main.cpp`.
+
+**3.** Press `F5` to compile and run.
+**NOTE.** Make sure that raylib is installed on your system otherwise installed it from officials.
+## How to play
+
+**=>** Use W/D keys for move space ship left/right.
+
+**=>** Enjoy 😀.
+
+**NOTE** The game is still in progress.
+
+---
+
+---
+
+## Resources
+
+🎥 [Raylib examples](https://www.raylib.com/examples.html)
+
+**NOTE** all the images are copyright free, and i don't own any images assests
+
+
