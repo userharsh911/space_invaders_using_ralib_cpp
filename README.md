@@ -1,4 +1,4 @@
-# Raylib-CPP Snake
+# Raylib-CPP Space Invader
 ![Language](https://img.shields.io/badge/language-C%2B%2B-brightgreen)
 ![Raylib](https://img.shields.io/badge/raylib-6.0-00d4aa)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-blue)
